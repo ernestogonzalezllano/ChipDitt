@@ -28,6 +28,7 @@
     "web": {
       "favicon": "./assets/reddit.png"
     },
-    "description": ""
+    "description": "",
+    "githubUrl": "https://github.com/ernestogonzalezllano/ChipDitt"
   }
 }

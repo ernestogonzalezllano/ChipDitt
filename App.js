@@ -6,6 +6,7 @@ import { GlobalizeProvider } from 'react-native-globalize';
 import { loadCldr } from 'react-native-globalize';
 loadCldr(require('react-native-globalize/locale-data/en'));
 
+
 function App() {
 
   return (
